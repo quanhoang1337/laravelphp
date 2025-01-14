@@ -117,4 +117,4 @@ Route::get(uri: '/db13', action: function():void {
 
 
 Route::get('/txn/', [TinTucController::class, 'tinXN']);
-
+ 
